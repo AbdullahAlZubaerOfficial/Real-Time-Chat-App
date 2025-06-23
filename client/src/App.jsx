@@ -11,7 +11,7 @@ const App = () => {
   const {authUser} = useContext(AuthContext)
 
   return (
-    <div className="bg-[url('./assets/bg2.avif')] bg-contain">
+    <div className="bg-[url('/bg2.avif')] bg-contain">
 {/* realistic.avif */}
 <Toaster/>
 
