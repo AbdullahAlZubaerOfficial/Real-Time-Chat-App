@@ -1,4 +1,4 @@
-# 💬 RealTimeChatPro – Instant Messaging Reimagined 🚀
+# 💬 RealTimeChatPro – Instant Messaging Reimagined 
 
 **RealTimeChatPro** is a high-performance real-time chat application built using modern technologies like **React**, **Next.js**, **Socket.IO**, **Node.js**, and **MongoDB**.  
 It delivers lightning-fast, smooth, and secure messaging — perfect for real-time communication across devices. ⚡
