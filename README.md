@@ -9,6 +9,7 @@ It delivers lightning-fast, smooth, and secure messaging — perfect for real-ti
 🔗 [Client Repository](https://github.com/AbdullahAlZubaerOfficial/Real-Time-Chat-App/tree/main/client)
 🔗 [Server Repository](https://github.com/AbdullahAlZubaerOfficial/Real-Time-Chat-App/tree/main/server)
 
+---
 
 ![RealTimeChatPro Screenshot](https://i.ibb.co/MkrYs9XT/Screenshot-2025-07-28-002211.png)
 
