@@ -3,9 +3,15 @@
 **RealTimeChatPro** is a high-performance real-time chat application built using modern technologies like **React**, **Next.js**, **Socket.IO**, **Node.js**, and **MongoDB**.  
 It delivers lightning-fast, smooth, and secure messaging — perfect for real-time communication across devices. ⚡
 
+## ✨ Live Demo
+🔗 [Live Website](https://real-time-chat-app-pi-five.vercel.app/)  
+
+🔗 [Client Repository](https://github.com/AbdullahAlZubaerOfficial/Real-Time-Chat-App/tree/main/client)
+🔗 [Server Repository](https://github.com/AbdullahAlZubaerOfficial/Real-Time-Chat-App/tree/main/server)
+
+
 ![RealTimeChatPro Screenshot](https://i.ibb.co/MkrYs9XT/Screenshot-2025-07-28-002211.png)
 
-🔗 **Live Demo:** [Visit RealTimeChatPro](https://real-time-chat-app-pi-five.vercel.app/)
 
 ---
 
